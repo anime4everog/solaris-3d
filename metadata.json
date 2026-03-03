@@ -1,0 +1,5 @@
+{
+  "name": "Solaris 3D",
+  "description": "A high-fidelity 3D solar system simulation with real-time gravity physics and interactive planetary exploration.",
+  "requestFramePermissions": []
+}
